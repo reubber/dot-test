@@ -1,0 +1,20 @@
+{
+  "name": "dot",
+  "version": "1.0.0",
+  "description": "vaga frontend dot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Reubber de Sousa Silva",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-imagemin": "^7.1.0"
+  },
+  "dependencies": {
+    "gulp-cli": "^2.3.0",
+    "gulp-concat": "^2.6.1",
+    "gulp-minify-css": "^1.2.4"
+  }
+}

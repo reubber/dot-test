@@ -1,7 +1,7 @@
 # Dot - frontend teste
 
 
-[DEMO](https://reubber.github.io/frogger-acarde-game/)
+[DEMO](https://reubber.github.io/dot-test/src/)
 ### Installation
 
 gulp requires [Node.js](https://nodejs.org/) v4+ to run.
